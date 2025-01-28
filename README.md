@@ -44,7 +44,7 @@
          app:scratchRevealFullAtPercent="100">
  
          <!--Your complex view here-->
-  </in.codeshuffle.scratchcardview.ui.ScratchCardLayout>     
+  </dev.foysaltech.scratchcardlayout.ui.ScratchCardLayout>     
  ```
  
  ## Java Usage
