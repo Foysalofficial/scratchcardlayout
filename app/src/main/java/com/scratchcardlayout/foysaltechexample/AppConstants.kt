@@ -1,4 +1,4 @@
-package dev.scratchcardlayoutexample.util
+package com.scratchcardlayout.foysaltechexample
 
 object AppConstants {
     object URLs {

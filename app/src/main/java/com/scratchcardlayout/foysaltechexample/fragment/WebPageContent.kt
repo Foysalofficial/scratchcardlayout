@@ -1,4 +1,4 @@
-package dev.scratchcardlayoutexample.ui.fragment
+package com.scratchcardlayout.foysaltechexample.fragment
 
 enum class WebPageContent {
     PAGE_VIEW_ABOUT_LIBRARY,

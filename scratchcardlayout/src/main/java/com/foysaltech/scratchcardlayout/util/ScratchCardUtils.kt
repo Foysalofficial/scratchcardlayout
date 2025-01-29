@@ -1,4 +1,4 @@
-package dev.foysaltech.scratchcardlayout.util
+package com.foysaltech.scratchcardlayout.util
 
 import android.content.Context
 

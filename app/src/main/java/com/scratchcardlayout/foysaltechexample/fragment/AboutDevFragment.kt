@@ -1,11 +1,11 @@
-package dev.scratchcardlayoutexample.ui.fragment
+package com.scratchcardlayout.foysaltechexample.fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.DialogFragment
-import dev.skymansandy.scratchcardlayoutexample.databinding.FragmentAboutDevBinding
+import com.scratchcardlayout.foysaltechexample.databinding.FragmentAboutDevBinding
 
 class AboutDevFragment : DialogFragment() {
 

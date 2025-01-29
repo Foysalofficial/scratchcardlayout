@@ -1,6 +1,6 @@
-package dev.scratchcardlayoutexample.ui.fragment
+package com.scratchcardlayout.foysaltechexample.fragment
 
-import dev.scratchcardlayoutexample.util.AppConstants.URLs
+import com.scratchcardlayout.foysaltechexample.AppConstants.URLs
 import android.annotation.SuppressLint
 import android.graphics.Bitmap
 import android.os.Bundle
@@ -11,7 +11,7 @@ import android.webkit.WebChromeClient
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import androidx.fragment.app.DialogFragment
-import dev.skymansandy.scratchcardlayoutexample.databinding.FragmentWebpageBinding
+import com.scratchcardlayout.foysaltechexample.databinding.FragmentWebpageBinding
 
 class WebPageFragment : DialogFragment() {
 

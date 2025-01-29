@@ -1,6 +1,6 @@
-package dev.scratchcardlayoutexample.ui.fragment
+package com.scratchcardlayout.foysaltechexample.fragment
 
-import dev.scratchcardlayoutexample.util.AppUtils
+import com.scratchcardlayout.foysaltechexample.AppUtils
 import android.os.Bundle
 import android.util.Log
 import android.view.LayoutInflater
@@ -10,11 +10,11 @@ import android.widget.CompoundButton
 import android.widget.SeekBar
 import android.widget.SeekBar.OnSeekBarChangeListener
 import androidx.fragment.app.DialogFragment
-import dev.foysaltech.scratchcardlayout.listener.ScratchListener
-import dev.foysaltech.scratchcardlayout.ui.ScratchCardLayout
-import dev.foysaltech.scratchcardlayout.util.ScratchCardUtils
-import dev.skymansandy.scratchcardlayoutexample.R
-import dev.skymansandy.scratchcardlayoutexample.databinding.FragmentDemoBinding
+import com.foysaltech.scratchcardlayout.listener.ScratchListener
+import com.foysaltech.scratchcardlayout.ui.ScratchCardLayout
+import com.foysaltech.scratchcardlayout.util.ScratchCardUtils
+import com.scratchcardlayout.foysaltechexample.R
+import com.scratchcardlayout.foysaltechexample.databinding.FragmentDemoBinding
 
 class DemoFragment : DialogFragment(), ScratchListener {
 

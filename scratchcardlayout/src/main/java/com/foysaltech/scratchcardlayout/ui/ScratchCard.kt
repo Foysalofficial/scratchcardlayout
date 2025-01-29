@@ -1,7 +1,7 @@
-package dev.foysaltech.scratchcardlayout.ui
+package com.foysaltech.scratchcardlayout.ui
 
-import dev.foysaltech.scratchcardlayout.listener.ScratchListener
-import dev.foysaltech.scratchcardlayout.util.ScratchCardUtils
+import com.foysaltech.scratchcardlayout.listener.ScratchListener
+import com.foysaltech.scratchcardlayout.util.ScratchCardUtils
 import android.annotation.SuppressLint
 import android.content.Context
 import android.graphics.*
@@ -9,7 +9,7 @@ import android.graphics.drawable.Drawable
 import android.util.AttributeSet
 import android.view.MotionEvent
 import android.view.View
-import dev.foysaltech.scratchcardlayout.R
+import com.foysaltech.scratchcardlayout.R
 import kotlin.math.abs
 
 internal class ScratchCard(context: Context, attrs: AttributeSet?, defStyle: Int) : View(context, attrs, defStyle) {

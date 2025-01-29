@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'dev.skymansandy.scratchcardlayoutexample'
+    namespace 'com.scratchcardlayout.foysaltechexample'
     compileSdk 34
 
     defaultConfig {
-        applicationId "dev.skymansandy.scratchcardlayoutexample"
+        applicationId "com.scratchcardlayout.foysaltechexample"
         minSdk 19
         targetSdk 34
         versionCode 6

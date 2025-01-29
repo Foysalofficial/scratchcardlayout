@@ -1,10 +1,9 @@
-package dev.scratchcardlayoutexample.ui.activity
+package com.scratchcardlayout.foysaltechexample
 
-import dev.scratchcardlayoutexample.ui.fragment.AboutDevFragment
-import dev.scratchcardlayoutexample.ui.fragment.DemoFragment
-import dev.scratchcardlayoutexample.ui.fragment.WebPageContent
-import dev.scratchcardlayoutexample.ui.fragment.WebPageFragment
-import dev.scratchcardlayoutexample.util.AppUtils
+import com.scratchcardlayout.foysaltechexample.fragment.AboutDevFragment
+import com.scratchcardlayout.foysaltechexample.fragment.DemoFragment
+import com.scratchcardlayout.foysaltechexample.fragment.WebPageContent
+import com.scratchcardlayout.foysaltechexample.fragment.WebPageFragment
 import android.os.Bundle
 import android.os.Handler
 import android.view.MenuItem
@@ -13,8 +12,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.GravityCompat
 import androidx.fragment.app.Fragment
 import com.google.android.material.navigation.NavigationView
-import dev.skymansandy.scratchcardlayoutexample.R
-import dev.skymansandy.scratchcardlayoutexample.databinding.ActivityMainBinding
+import com.scratchcardlayout.foysaltechexample.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 

@@ -1,11 +1,10 @@
-package dev.scratchcardlayoutexample.util
+package com.scratchcardlayout.foysaltechexample
 
 import android.content.ActivityNotFoundException
 import android.content.Context
 import android.content.Intent
 import android.net.Uri
 import android.widget.Toast
-import dev.skymansandy.scratchcardlayoutexample.R
 import java.text.MessageFormat
 
 object AppUtils {

@@ -1,6 +1,6 @@
-package dev.foysaltech.scratchcardlayout.listener
+package com.foysaltech.scratchcardlayout.listener
 
-import dev.foysaltech.scratchcardlayout.ui.ScratchCardLayout
+import com.foysaltech.scratchcardlayout.ui.ScratchCardLayout
 
 interface ScratchListener {
 

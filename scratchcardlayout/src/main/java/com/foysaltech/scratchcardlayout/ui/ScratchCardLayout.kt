@@ -1,6 +1,6 @@
-package dev.foysaltech.scratchcardlayout.ui
+package com.foysaltech.scratchcardlayout.ui
 
-import dev.foysaltech.scratchcardlayout.listener.ScratchListener
+import com.foysaltech.scratchcardlayout.listener.ScratchListener
 import android.content.Context
 import android.graphics.drawable.Drawable
 import android.util.AttributeSet
@@ -8,7 +8,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.cardview.widget.CardView
 
-class ScratchCardLayout : CardView, ScratchCard.ScratchCardInterface {
+public class ScratchCardLayout : CardView, ScratchCard.ScratchCardInterface {
     private lateinit var scratchCard: ScratchCard
 
     constructor(context: Context) : super(context) {
