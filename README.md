@@ -33,7 +33,7 @@
  
  ## XML Usage
  ```xml
-  <dev.foysaltech.scratchcardlayout.ui.ScratchCardLayout
+  <com.foysaltech.scratchcardlayout.ui.ScratchCardLayout
          android:id="@+id/scratchCard"
          android:layout_width="250dp"
          android:layout_height="250dp"
@@ -44,7 +44,7 @@
          app:scratchRevealFullAtPercent="100">
  
          <!--Your complex view here-->
-  </dev.foysaltech.scratchcardlayout.ui.ScratchCardLayout>     
+  </com.foysaltech.scratchcardlayout.ui.ScratchCardLayout>     
  ```
  
  ## Java Usage
