@@ -27,7 +27,7 @@
  
  ```
  dependencies {
-      implementation 'com.github.Foysalofficial:scratchcardlayout:1.0'
+      implementation 'com.github.Foysalofficial:scratchcardlayout:2.0'
  }
  ```
  
